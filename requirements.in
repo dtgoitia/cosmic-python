@@ -1,0 +1,11 @@
+attrs
+black
+cattrs
+flake8
+ipdb
+isort
+mypy
+pip-tools
+pytest
+pytest-cov
+pytest-mock
